@@ -26,6 +26,7 @@ def assembled_matrix
 end
 
 def sorted_matrix
+  
   sorted_array = array.sort
   
   # Using Array literal syntax only, build another nested array that 
